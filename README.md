@@ -40,7 +40,7 @@
 
 ### Built With
 
-- ![C](https://img.shields.io/badge/C-programming_language-a9bacd)
+- ![C](https://img.shields.io/badge/programming_language-a9bacd?style=flat&logo=c&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
